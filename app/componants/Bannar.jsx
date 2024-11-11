@@ -14,4 +14,4 @@ export default Bannar
 
 
 
-// -left-[139px]
+// -left-[139px] good
