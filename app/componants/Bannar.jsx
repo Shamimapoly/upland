@@ -4,8 +4,8 @@ import Image from 'next/image'
 const Bannar = () => {
   return (
     <div className=''>
-     <h1>example</h1>
-      <Image className='w-full h-[873px] bg-cover bg-bottom' src={bannar} alt={bannar}/>
+   
+   
     </div>
   )
 }
