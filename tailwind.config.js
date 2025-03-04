@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage:{
+        bannar : "url('/bannar.png')",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
